@@ -19,6 +19,14 @@ install.packages("affy")
 install.packages("limma")
 install.packages("GEOquery")
 ```
+  
+ Download the data and read it in R by using the command:
+```bash
+name <- read.csv("your directory")
+```
+where "your directory" is the pathname of the data file, and name can be changed to a variable name that more accurately represents the data set.
+
+
 
 ## Status
 These projects are all completed. 
