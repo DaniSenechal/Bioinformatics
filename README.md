@@ -32,7 +32,7 @@ where "your directory" is the pathname of the data file, and name can be changed
 These projects are all completed. 
 
 ## Inspiration
-This project was completed for CSC 315: Bioinformatics Programming and Analysis at ECSU in the Fall of 2019. 
+These projects were completed for CSC 315: Bioinformatics Programming and Analysis at ECSU in the Fall of 2019. 
 
 ## Authors
 Danielle Senechal
